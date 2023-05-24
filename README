@@ -1,0 +1,10 @@
+Does this actually work?
+
+Considering the button on the GitHub website for preventing a workflow from
+being disabled hits
+
+  https://github.com/{user}/{repo}/actions/workflows/{workflow_id}/enable
+
+which appears to be the analogue of the API we call: it hopefully does.
+
+We'll see in another two months.
